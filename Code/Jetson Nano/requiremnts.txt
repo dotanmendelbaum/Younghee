@@ -1,0 +1,7 @@
+numpy
+opencv-python
+imutils
+pyserial
+playsound
+pygame
+Pillow
