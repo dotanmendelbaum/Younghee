@@ -1,4 +1,5 @@
 # Younghee: The Squid Game Doll Project
+![Image Description](./Assets/Younghee.jpeg)
 Younghee is inspired by the spine-chilling doll from the popular show Squid Game. The doll plays "Green Light, Red Light" and detects motion using object recognition technology. If you're intrigued by the idea of having a creepy, yet fascinating, piece of technology in your room, you're in the right place!
 
 ## Overview:
